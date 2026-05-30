@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title>Python</title>
+  <desc>Simple Python language icon</desc>
+  <rect width="256" height="256" rx="48" fill="#3776AB"/>
+  <path fill="#FFD43B" d="M128 36c-28 0-40 14-40 33v19h40v12H67c-20 0-35 15-35 35v22c0 20 15 35 35 35h32v-31c0-19 13-31 31-31h29c19 0 31-13 31-31V69c0-19-12-33-32-33h-30zM97 71a10 10 0 1 1 0 20 10 10 0 0 1 0-20z"/>
+  <path fill="#FFFFFF" d="M128 220c28 0 40-14 40-33v-19h-40v-12h61c20 0 35-15 35-35v-22c0-20-15-35-35-35h-32v31c0 19-13 31-31 31H97c-19 0-31 13-31 31v22c0 19 12 33 32 33h30zM159 185a10 10 0 1 1 0-20 10 10 0 0 1 0 20z"/>
+</svg>

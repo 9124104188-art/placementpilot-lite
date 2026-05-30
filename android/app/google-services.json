@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627035367072",
+    "project_id": "placementpilot-lite",
+    "storage_bucket": "placementpilot-lite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627035367072:android:69ff60dabd7e6281088bc5",
+        "android_client_info": {
+          "package_name": "com.example.placement_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdlnpBHhOQnCYtrMEfO820GKmo29Kk5qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
