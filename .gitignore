@@ -16,6 +16,9 @@ pubspec.lock
 # Firebase local folders
 .firebase/
 
+# Sensitive uploads
+upload/*.json
+
 # Generated files
 **/generated/**
 # Miscellaneous
