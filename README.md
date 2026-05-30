@@ -1,16 +1,22 @@
-# placement_lite
+# placementpilot-lite
 
-A new Flutter project.
+PlacementPilot Lite is a Flutter app for placement preparation. It includes coding practice, quizzes, notes, and progress tracking in a simple mobile- and web-friendly interface.
 
-## Getting Started
+## Run locally
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Build web
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter build web --release
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Deploy to Firebase Hosting
+
+```bash
+firebase deploy --only hosting --project placementpilot-lite
+```
